@@ -1,6 +1,4 @@
 # LECCIÓN 1 — Introducción a Java y Variables
-**Narrador: Joel | Duración estimada: ~12 minutos**
-
 ---
 
 [EN PANTALLA: mostrar la diapositiva de introduccion]
