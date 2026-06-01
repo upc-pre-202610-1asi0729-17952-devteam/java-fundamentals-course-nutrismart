@@ -94,7 +94,7 @@ Usa JDoodle porque permite múltiples archivos en el mismo proyecto.
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Da el salto a la programación orientada a objetos: crea tu propia clase `Estudiante` con atributos privados y un constructor, instancia objetos con `new`, y protege los datos con getters y setters — eso es encapsulación.
-- **Enlace**: [Ver la lección]([BRANDON: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/vvlnmCXYOjo)
 - **Conclusiones clave**:
 - Una clase es el molde; un objeto es la instancia concreta creada con `new`.
 - `private` protege los atributos: nadie de afuera puede modificarlos directamente.
