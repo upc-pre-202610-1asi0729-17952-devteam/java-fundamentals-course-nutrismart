@@ -42,7 +42,7 @@ RESPONSABLE — Lección 1: JOEL
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Descubre qué es programar, qué es Java y para qué sirve; escribe tu primer programa con `System.out.println` y aprende a guardar datos en variables con los tipos `int`, `double`, `String` y `boolean`.
-- **Enlace**: [Ver la lección](PENDIENTE)
+- **Enlace**: [Ver la lección](https://youtu.be/raSn1nspaDI)
 - **Conclusiones clave**:
 - Un programa es una secuencia de instrucciones que la computadora sigue al pie de la letra.
 - Las variables son cajas con nombre y tipo: `int` para enteros, `double` para decimales, `String` para texto, `boolean` para verdadero/falso.
