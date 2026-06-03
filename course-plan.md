@@ -64,7 +64,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | Métodos y Scanner | Olenka | [JDoodle](https://www.jdoodle.com/ga/4VVVT6l5pwwdD38SuuSTKQ%3D%3D) |
 | 4 | Clase Estudiante y objetos | Brandon | [JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) |
 | 5 | Registro de estudiantes (POO completa) | Ángel | [JDoodle](https://www.jdoodle.com/ga/9puXL8yNi4t8KH07Sxm9Zw%3D%3D) |
-**Recursos para seguir aprendiendo**:
+
+
+<br>**Recursos para seguir aprendiendo**:
+
 - [Oracle Java Documentation](https://docs.oracle.com/javase/) — referencia oficial de todos los métodos y clases de Java.
 - [freeCodeCamp Java](https://www.freecodecamp.org) — cursos interactivos gratuitos directamente en el navegador.
 **¡Gracias por completar el curso!**
