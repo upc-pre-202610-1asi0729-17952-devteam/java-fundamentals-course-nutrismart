@@ -1,4 +1,5 @@
 # LECCIÓN 5 — Arrays, Programa Final y Errores Comunes
+
 ---
 
 [EN PANTALLA: abrir Replit con tres archivos: `Estudiante.java` (la clase completa de lección anterior), `RegistroEstudiantes.java` vacío, y `Main.java` con el `main` vacío.]
