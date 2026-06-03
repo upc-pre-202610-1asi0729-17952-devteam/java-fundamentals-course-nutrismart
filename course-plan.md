@@ -70,6 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 <br>**Recursos para seguir aprendiendo**:
 
+- [Formulario](https://forms.gle/8wtGGQsaCsgWQwLH8) — Cuestionario integral del curso!
 - [Oracle Java Documentation](https://docs.oracle.com/javase/) — referencia oficial de todos los métodos y clases de Java.
 - [freeCodeCamp Java](https://www.freecodecamp.org) — cursos interactivos gratuitos directamente en el navegador.
 **¡Gracias por completar el curso!**
