@@ -25,7 +25,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - `==` compara si dos valores son iguales; `=` guarda un valor en una variable. No los confundas.
 - Usa `for` cuando sabes cuántas repeticiones necesitas; usa `while` cuando no lo sabes de antemano.
 - El operador `%` devuelve el residuo de una división: `10 % 3 = 1`.
-- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) 
 ---
 ### Lección 3: Métodos y entrada del usuario (~12 min)
 - **Descripción**: Organiza el código en bloques reutilizables llamados métodos, aprende a pasarles datos como parámetros y a recibir un resultado con `return`; luego usa `Scanner` para que el usuario escriba datos mientras el programa corre.
