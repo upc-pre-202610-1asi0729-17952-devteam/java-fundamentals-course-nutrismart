@@ -11,7 +11,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: Introducción a Java y variables
 - **Descripción**: Descubre qué es programar, qué es Java y para qué sirve; escribe tu primer programa con `System.out.println` y aprende a guardar datos en variables con los tipos `int`, `double`, `String` y `boolean`.
-- **Enlace**: [Ver la lección](PENDIENTE)
+- **Enlace**: [Ver la lección](https://youtu.be/raSn1nspaDI)
 - **Conclusiones clave**:
 - Un programa es una secuencia de instrucciones que la computadora sigue al pie de la letra.
 - Las variables son cajas con nombre y tipo: `int` para enteros, `double` para decimales, `String` para texto, `boolean` para verdadero/falso.
@@ -20,30 +20,30 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ---
 ### Lección 2: Operadores y estructuras de control
 - **Descripción**: Opera con los datos que guardaste en variables, toma decisiones con `if-else` y haz que el programa repita acciones automáticamente con bucles `for` y `while`.
-- **Enlace**: [Ver la lección]([ANGELA: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/pjsUuV8eLJ4)
 - **Conclusiones clave**:
 - `==` compara si dos valores son iguales; `=` guarda un valor en una variable. No los confundas.
 - Usa `for` cuando sabes cuántas repeticiones necesitas; usa `while` cuando no lo sabes de antemano.
 - El operador `%` devuelve el residuo de una división: `10 % 3 = 1`.
-- **Empieza a programar**: [Abrir JDoodle]([ANGELA: reemplazar con URL del starter])
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) **¡No necesitas registrarte!**
 ---
 ### Lección 3: Métodos y entrada del usuario (~12 min)
 - **Descripción**: Organiza el código en bloques reutilizables llamados métodos, aprende a pasarles datos como parámetros y a recibir un resultado con `return`; luego usa `Scanner` para que el usuario escriba datos mientras el programa corre.
-- **Enlace**: [Ver la lección]([OLENKA: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/SN7ApwJi8iM)
 - **Conclusiones clave**:
 - Un método se define una vez y se puede llamar cuantas veces se necesite — evita repetir código.
 - Si el método no devuelve nada, su tipo es `void`; si devuelve un dato, el tipo va antes del nombre.
 - `Scanner teclado = new Scanner(System.in)` abre la puerta al teclado; `nextLine()` lee texto, `nextInt()` lee enteros.
-- **Empieza a programar**: [Abrir JDoodle]([OLENKA: reemplazar con URL del starter en JDoodle])
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/4VVVT6l5pwwdD38SuuSTKQ%3D%3D)
 ---
 ### Lección 4: Clases, objetos y encapsulación
 - **Descripción**: Da el salto a la programación orientada a objetos: crea tu propia clase `Estudiante` con atributos privados y un constructor, instancia objetos con `new`, y protege los datos con getters y setters — eso es encapsulación.
-- **Enlace**: [Ver la lección]([BRANDON: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/vvlnmCXYOjo)
 - **Conclusiones clave**:
 - Una clase es el molde; un objeto es la instancia concreta creada con `new`.
 - `private` protege los atributos: nadie de afuera puede modificarlos directamente.
 - Los getters leen el atributo; los setters lo modifican de forma controlada — pueden incluir validaciones.
-- **Empieza a programar**: [Abrir JDoodle]([BRANDON: reemplazar con URL del starter en JDoodle — 2 archivos])
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D)
 ---
 ### Lección 5: Arrays, programa final y errores comunes
 - **Descripción**: Proyecto integrador: aprende a guardar colecciones de objetos en arrays, usa métodos de `String`, y construye desde cero un sistema de registro de estudiantes que combina todo lo del curso; cierra con los tres errores más comunes para principiantes en Java.
@@ -60,9 +60,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Lección | Actividad | Integrante | Empezar a programar |
 |---------|-----------|------------|---------------------|
 | 1 | Variables y Hola Mundo | Joel | [JDoodle](https://www.jdoodle.com/ga/9IUDJoImZZmySYcvjs3eAQ%3D%3D) |
-| 2 | Operadores, if-else y bucles | Angela | [JDoodle]([ANGELA: URL starter L2]) |
-| 3 | Métodos y Scanner | Olenka | [JDoodle]([OLENKA: URL starter L3]) |
-| 4 | Clase Estudiante y objetos | Brandon | [JDoodle]([BRANDON: URL starter L4]) |
+| 2 | Operadores, if-else y bucles | Angela | [JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) |
+| 3 | Métodos y Scanner | Olenka | [JDoodle](https://www.jdoodle.com/ga/4VVVT6l5pwwdD38SuuSTKQ%3D%3D) |
+| 4 | Clase Estudiante y objetos | Brandon | [JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) |
 | 5 | Registro de estudiantes (POO completa) | Ángel | [JDoodle](https://www.jdoodle.com/ga/9puXL8yNi4t8KH07Sxm9Zw%3D%3D) |
 **Recursos para seguir aprendiendo**:
 - [Oracle Java Documentation](https://docs.oracle.com/javase/) — referencia oficial de todos los métodos y clases de Java.
