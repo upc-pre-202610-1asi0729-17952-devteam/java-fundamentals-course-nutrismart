@@ -38,16 +38,16 @@ No modifiques las entradas de los demás.
 RESPONSABLE — Lección 1: JOEL
 ▸ Completa la descripción con una frase que resuma lo que el estudiante aprenderá.
 ▸ Reemplaza el enlace de YouTube por la URL real de tu video (no listado).
-▸ Reemplaza el enlace de JDoodle por el starter que preparaste para la práctica.
+▸ Reemplaza el enlace de Replit por el starter que preparaste para la práctica.
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Descubre qué es programar, qué es Java y para qué sirve; escribe tu primer programa con `System.out.println` y aprende a guardar datos en variables con los tipos `int`, `double`, `String` y `boolean`.
-- **Enlace**: [Ver la lección]([JOEL: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](PENDIENTE)
 - **Conclusiones clave**:
 - Un programa es una secuencia de instrucciones que la computadora sigue al pie de la letra.
 - Las variables son cajas con nombre y tipo: `int` para enteros, `double` para decimales, `String` para texto, `boolean` para verdadero/falso.
 - Toda línea de código en Java termina con punto y coma `;`.
-- **Empieza a programar**: [Abrir JDoodle]([JOEL: reemplazar con URL del starter en JDoodle]) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9IUDJoImZZmySYcvjs3eAQ%3D%3D) **¡Debes registrarte!**
 ---
 ### Lección 2: Operadores y estructuras de control (~12 min)
 <!--
@@ -58,12 +58,12 @@ RESPONSABLE — Lección 2: ANGELA
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Opera con los datos que guardaste en variables, toma decisiones con `if-else` y haz que el programa repita acciones automáticamente con bucles `for` y `while`.
-- **Enlace**: [Ver la lección]([ANGELA: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/pjsUuV8eLJ4)
 - **Conclusiones clave**:
 - `==` compara si dos valores son iguales; `=` guarda un valor en una variable. No los confundas.
 - Usa `for` cuando sabes cuántas repeticiones necesitas; usa `while` cuando no lo sabes de antemano.
 - El operador `%` devuelve el residuo de una división: `10 % 3 = 1`.
-- **Empieza a programar**: [Abrir JDoodle]([ANGELA: reemplazar con URL del starter]) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) **¡No necesitas registrarte!**
 ---
 ### Lección 3: Métodos y entrada del usuario (~12 min)
 <!--
@@ -76,12 +76,12 @@ RESPONSABLE — Lección 3: OLENKA
 En JDoodle, los inputs se ingresan antes de ejecutar — menciónalo en el video.
 -->
 - **Descripción**: Organiza el código en bloques reutilizables llamados métodos, aprende a pasarles datos como parámetros y a recibir un resultado con `return`; luego usa `Scanner` para que el usuario escriba datos mientras el programa corre.
-- **Enlace**: [Ver la lección]([OLENKA: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/SN7ApwJi8iM)
 - **Conclusiones clave**:
 - Un método se define una vez y se puede llamar cuantas veces se necesite — evita repetir código.
 - Si el método no devuelve nada, su tipo es `void`; si devuelve un dato, el tipo va antes del nombre.
 - `Scanner teclado = new Scanner(System.in)` abre la puerta al teclado; `nextLine()` lee texto, `nextInt()` lee enteros.
-- **Empieza a programar**: [Abrir JDoodle]([OLENKA: reemplazar con URL del starter en JDoodle]) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir Replit](https://www.jdoodle.com/ga/4VVVT6l5pwwdD38SuuSTKQ%3D%3D) **¡No necesitas registrarte!**
 ---
 ### Lección 4: Clases, objetos y encapsulación (~12 min)
 <!--
@@ -128,8 +128,8 @@ RESPONSABLE — Sección "Recursos adicionales":
 **Todas las actividades prácticas**:
 | Lección | Actividad | Integrante | Empezar a programar |
 |---------|-----------|------------|---------------------|
-| 1 | Variables y Hola Mundo | Joel | [JDoodle]([JOEL: URL starter L1]) |
-| 2 | Operadores, if-else y bucles | Angela | [JDoodle]([ANGELA: URL starter L2]) |
+| 1 | Variables y Hola Mundo | Joel | [JDoodle](https://www.jdoodle.com/ga/9IUDJoImZZmySYcvjs3eAQ%3D%3D) |
+| 2 | Operadores, if-else y bucles | Angela | [JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) |
 | 3 | Métodos y Scanner | Olenka | [JDoodle]([OLENKA: URL starter L3]) |
 | 4 | Clase Estudiante y objetos | Brandon | [JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) |
 | 5 | Registro de estudiantes (POO completa) | Ángel | [JDoodle]([ÁNGEL: URL starter L5]) |
