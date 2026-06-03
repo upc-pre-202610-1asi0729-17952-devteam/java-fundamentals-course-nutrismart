@@ -1,11 +1,14 @@
 # Fundamentos de Java para Principiantes
+
 ## Resumen del Curso
+
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. Solo abre tu navegador web.
 **Duración total**: ~63 minutos 
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación 
 **Prerrequisitos**: Ninguno 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 **Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0729-17952-devteam/java-fundamentals-course-nutrismart](https://github.com/upc-pre-202610-1asi0729-17952-devteam/java-fundamentals-course-nutrismart)
+
 ---
 ## Secuencia de lecciones
 
@@ -65,7 +68,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4 | Clase Estudiante y objetos | Brandon | [JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) |
 | 5 | Registro de estudiantes (POO completa) | Ángel | [JDoodle](https://www.jdoodle.com/ga/9puXL8yNi4t8KH07Sxm9Zw%3D%3D) |
 
-
 <br>**Recursos para seguir aprendiendo**:
 
 - [Oracle Java Documentation](https://docs.oracle.com/javase/) — referencia oficial de todos los métodos y clases de Java.
@@ -73,11 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **¡Gracias por completar el curso!**
 ---
 ## Elaboración
-Universidad Peruana de Ciencias Aplicadas 
-Carrera de Ingeniería de Software 
-Período 202610 
-1ASI0729 Desarrollo de Aplicaciones Open Source 
-NRC 17952
+Universidad Peruana de Ciencias Aplicadas <br>Carrera de Ingeniería de Software<br>Período 202610 <br>1ASI0729 Desarrollo de Aplicaciones Open Source <br> **NRC** 17952
 **Nombre del equipo**: DevTeam
 **Líder del equipo**: Villarreal Bazan Angel Martin
 **Integrantes del equipo**:
