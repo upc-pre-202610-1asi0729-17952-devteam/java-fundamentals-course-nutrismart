@@ -90,23 +90,23 @@ RESPONSABLE — Lección 4: BRANDON
 ▸ Reemplaza el enlace de YouTube por la URL real de tu video (no listado).
 ▸ Reemplaza el enlace por el starter que preparaste.
 ▸ IMPORTANTE: el starter debe tener DOS archivos — Estudiante.java y Main.java.
-Usa Replit porque permite múltiples archivos en el mismo proyecto.
+Usa JDoodle porque permite múltiples archivos en el mismo proyecto.
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Da el salto a la programación orientada a objetos: crea tu propia clase `Estudiante` con atributos privados y un constructor, instancia objetos con `new`, y protege los datos con getters y setters — eso es encapsulación.
-- **Enlace**: [Ver la lección]([BRANDON: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/vvlnmCXYOjo)
 - **Conclusiones clave**:
 - Una clase es el molde; un objeto es la instancia concreta creada con `new`.
 - `private` protege los atributos: nadie de afuera puede modificarlos directamente.
 - Los getters leen el atributo; los setters lo modifican de forma controlada — pueden incluir validaciones.
-- **Empieza a programar**: [Abrir Replit]([BRANDON: reemplazar con URL del starter en Replit — 2 archivos]) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) **¡Debes registrarte!**
 ---
 ### Lección 5: Arrays, programa final y errores comunes (~15 min)
 <!--
 RESPONSABLE — Lección 5: ÁNGEL
 ▸ Completa la descripción con una frase que resuma lo que el estudiante aprenderá.
 ▸ Reemplaza el enlace de YouTube por la URL real de tu video (no listado).
-▸ Reemplaza el enlace por el starter que preparaste (3 archivos en Replit).
+▸ Reemplaza el enlace por el starter que preparaste (3 archivos en JDoodle).
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Proyecto integrador: aprende a guardar colecciones de objetos en arrays, usa métodos de `String`, y construye desde cero un sistema de registro de estudiantes que combina todo lo del curso; cierra con los tres errores más comunes para principiantes en Java.
@@ -115,7 +115,7 @@ RESPONSABLE — Lección 5: ÁNGEL
 - Un array es una fila de casilleros numerados desde cero; el último índice válido es `length - 1`.
 - `ArrayIndexOutOfBoundsException` significa que intentaste acceder a un casillero que no existe.
 - Combinar variables, bucles, métodos, clases y arrays es programación orientada a objetos aplicada.
-- **Proyecto final**: [Abrir en Replit]([ÁNGEL: reemplazar con URL del starter en Replit — 3 archivos]) **¡Personalízalo con tus datos!**
+- **Proyecto final**: [Abrir en JDoodle]([ÁNGEL: reemplazar con URL del starter en JDoodle — 3 archivos]) **¡Personalízalo con tus datos!**
 ---
 ## Recursos adicionales
 <!--
@@ -130,9 +130,9 @@ RESPONSABLE — Sección "Recursos adicionales":
 |---------|-----------|------------|---------------------|
 | 1 | Variables y Hola Mundo | Joel | [JDoodle](https://www.jdoodle.com/ga/9IUDJoImZZmySYcvjs3eAQ%3D%3D) |
 | 2 | Operadores, if-else y bucles | Angela | [JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) |
-| 3 | Métodos y Scanner | Olenka | [Replit]([OLENKA: URL starter L3]) |
-| 4 | Clase Estudiante y objetos | Brandon | [Replit]([BRANDON: URL starter L4]) |
-| 5 | Registro de estudiantes (POO completa) | Ángel | [Replit]([ÁNGEL: URL starter L5]) |
+| 3 | Métodos y Scanner | Olenka | [JDoodle]([OLENKA: URL starter L3]) |
+| 4 | Clase Estudiante y objetos | Brandon | [JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) |
+| 5 | Registro de estudiantes (POO completa) | Ángel | [JDoodle]([ÁNGEL: URL starter L5]) |
 **Recursos para seguir aprendiendo**:
 - [Oracle Java Documentation](https://docs.oracle.com/javase/) — referencia oficial de todos los métodos y clases de Java.
 - [freeCodeCamp Java](https://www.freecodecamp.org) — cursos interactivos gratuitos directamente en el navegador.
