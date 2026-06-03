@@ -1,5 +1,7 @@
 # LECCIÓN 2 — Operadores y Estructuras de Control
 
+---
+
 Hola, bienvenidos de vuelta.
 
 En la lección anterior aprendieron a guardar datos en variables: números, texto, verdadero o falso. Pero

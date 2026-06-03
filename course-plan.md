@@ -1,11 +1,14 @@
 # Fundamentos de Java para Principiantes
+
 ## Resumen del Curso
+
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. Solo abre tu navegador web.
 **Duración total**: ~63 minutos 
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación 
 **Prerrequisitos**: Ninguno 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 **Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0729-17952-devteam/java-fundamentals-course-nutrismart](https://github.com/upc-pre-202610-1asi0729-17952-devteam/java-fundamentals-course-nutrismart)
+
 ---
 ## Secuencia de lecciones
 
@@ -25,7 +28,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - `==` compara si dos valores son iguales; `=` guarda un valor en una variable. No los confundas.
 - Usa `for` cuando sabes cuántas repeticiones necesitas; usa `while` cuando no lo sabes de antemano.
 - El operador `%` devuelve el residuo de una división: `10 % 3 = 1`.
-- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/ga/9v2zh6goWpTcsOPJ3%2FinRg%3D%3D) 
 ---
 ### Lección 3: Métodos y entrada del usuario (~12 min)
 - **Descripción**: Organiza el código en bloques reutilizables llamados métodos, aprende a pasarles datos como parámetros y a recibir un resultado con `return`; luego usa `Scanner` para que el usuario escriba datos mientras el programa corre.
@@ -64,17 +67,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | Métodos y Scanner | Olenka | [JDoodle](https://www.jdoodle.com/ga/4VVVT6l5pwwdD38SuuSTKQ%3D%3D) |
 | 4 | Clase Estudiante y objetos | Brandon | [JDoodle](https://www.jdoodle.com/ga/X4YDasho%2BIxydEbibGiZ5Q%3D%3D) |
 | 5 | Registro de estudiantes (POO completa) | Ángel | [JDoodle](https://www.jdoodle.com/ga/9puXL8yNi4t8KH07Sxm9Zw%3D%3D) |
-**Recursos para seguir aprendiendo**:
+
+<br>**Recursos para seguir aprendiendo**:
+
+- [Formulario](https://forms.gle/8wtGGQsaCsgWQwLH8) — Cuestionario integral del curso!
 - [Oracle Java Documentation](https://docs.oracle.com/javase/) — referencia oficial de todos los métodos y clases de Java.
 - [freeCodeCamp Java](https://www.freecodecamp.org) — cursos interactivos gratuitos directamente en el navegador.
 **¡Gracias por completar el curso!**
 ---
 ## Elaboración
-Universidad Peruana de Ciencias Aplicadas 
-Carrera de Ingeniería de Software 
-Período 202610 
-1ASI0729 Desarrollo de Aplicaciones Open Source 
-NRC 17952
+Universidad Peruana de Ciencias Aplicadas <br>Carrera de Ingeniería de Software<br>Período 202610 <br>1ASI0729 Desarrollo de Aplicaciones Open Source <br> **NRC** 17952
 **Nombre del equipo**: DevTeam
 **Líder del equipo**: Villarreal Bazan Angel Martin
 **Integrantes del equipo**:
