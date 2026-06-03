@@ -76,12 +76,12 @@ RESPONSABLE — Lección 3: OLENKA
 En JDoodle, los inputs se ingresan antes de ejecutar — menciónalo en el video.
 -->
 - **Descripción**: Organiza el código en bloques reutilizables llamados métodos, aprende a pasarles datos como parámetros y a recibir un resultado con `return`; luego usa `Scanner` para que el usuario escriba datos mientras el programa corre.
-- **Enlace**: [Ver la lección]([OLENKA: reemplazar con URL de YouTube])
+- **Enlace**: [Ver la lección](https://youtu.be/SN7ApwJi8iM)
 - **Conclusiones clave**:
 - Un método se define una vez y se puede llamar cuantas veces se necesite — evita repetir código.
 - Si el método no devuelve nada, su tipo es `void`; si devuelve un dato, el tipo va antes del nombre.
 - `Scanner teclado = new Scanner(System.in)` abre la puerta al teclado; `nextLine()` lee texto, `nextInt()` lee enteros.
-- **Empieza a programar**: [Abrir Replit]([OLENKA: reemplazar con URL del starter en Replit]) **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir Replit](https://www.jdoodle.com/ga/4VVVT6l5pwwdD38SuuSTKQ%3D%3D) **¡No necesitas registrarte!**
 ---
 ### Lección 4: Clases, objetos y encapsulación (~12 min)
 <!--
