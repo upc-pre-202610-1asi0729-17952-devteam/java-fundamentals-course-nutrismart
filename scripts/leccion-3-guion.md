@@ -1,5 +1,4 @@
 # LECCIÓN 3 — Métodos y Entrada del Usuario
-## Duración estimada: ~12 minutos**
 
 ---
 

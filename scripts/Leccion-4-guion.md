@@ -1,6 +1,6 @@
 # LECCIÓN 4 — Clases, Objetos y Encapsulación
 
-**Narrador: Brandon | Duración estimada: ~12 minutos**
+---
 
 [EN PANTALLA: abrir JDoodle con dos archivos: Estudiante.java vacío y Main.java con el main vacío.]
 

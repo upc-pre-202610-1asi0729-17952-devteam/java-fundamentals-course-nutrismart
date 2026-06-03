@@ -1,4 +1,5 @@
 # LECCIÓN 1 — Introducción a Java y Variables
+
 ---
 
 [EN PANTALLA: mostrar la diapositiva de introduccion]
