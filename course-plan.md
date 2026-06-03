@@ -58,7 +58,7 @@ RESPONSABLE — Lección 2: ANGELA
 ▸ Revisa que las conclusiones clave coincidan con lo que explicaste en el video.
 -->
 - **Descripción**: Opera con los datos que guardaste en variables, toma decisiones con `if-else` y haz que el programa repita acciones automáticamente con bucles `for` y `while`.
-- **Enlace**: [Ver la lección](https://youtu.be/sU7Rnz8f-Rc)
+- **Enlace**: [Ver la lección](https://youtu.be/pjsUuV8eLJ4)
 - **Conclusiones clave**:
 - `==` compara si dos valores son iguales; `=` guarda un valor en una variable. No los confundas.
 - Usa `for` cuando sabes cuántas repeticiones necesitas; usa `while` cuando no lo sabes de antemano.
